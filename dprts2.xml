@@ -100,20 +100,4 @@
 <runtime>0</runtime>
 </item>
 
-<item sdImg="https://btv.mx/posters/1721327534361.png" hdImg="https://btv.mx/posters/1721327534361.png">
-<title>WWE NETWORK</title>
-<contentId>10002</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<streamFormat>autodetect</streamFormat>
-<media>
-<streamQuality>SD</streamQuality>
-<streamBitrate>0</streamBitrate>
-<streamUrl>http://172.93.102.112:8989/158854_.m3u8</streamUrl>
-</media>
-<synopsis>EN VIVO</synopsis>
-<genres>DEPORTES</genres>
-<runtime>0</runtime>
-</item>
-
 </feed>
