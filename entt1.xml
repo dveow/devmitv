@@ -1,0 +1,247 @@
+<feed>
+<!--  resultLength indicates the total number of results for this feed  -->
+<resultLength>4</resultLength>
+<!--  endIndix  indicates the number of results for this *paged* section of the feed  -->
+<endIndex>4</endIndex>
+
+<item sdImg="https://btv.mx/posters/1721920190142.png" hdImg="https://btv.mx/posters/1721920190142.png">
+<title>DISTRITO COMEDIA</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRZqFqsuQoNU6QlbKprTBoBT/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721919875453.png" hdImg="https://btv.mx/posters/1721919875453.png">
+<title>AMC</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRYED0g1FbZiV8954kes3yle/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721920009555.png" hdImg="https://btv.mx/posters/1721920009555.png">
+<title>AXN</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRY2l-2Vw44KrBwYhvSISRtQ/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1720837464239.png" hdImg="https://btv.mx/posters/1720837464239.png">
+<title>AYE</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRYB2ew0fc9yRBhditGdSxq-/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721920079407.png" hdImg="https://btv.mx/posters/1721920079407.png">
+<title>BITME</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278522.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721920124231.png" hdImg="https://btv.mx/posters/1721920124231.png">
+<title>COMEDY CENTRAL</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRaNjEdhPmFUfRc1W81BRMrt/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://miniondas.com/wp-content/uploads/2015/06/A186.jpg" hdImg="https://miniondas.com/wp-content/uploads/2015/06/A186.jpg">
+<title>NBC UNIVERSO</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://172.93.102.119:8989/279440_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://seeklogo.com/images/U/usa-network-logo-9CFE26C322-seeklogo.com.png" hdImg="https://seeklogo.com/images/U/usa-network-logo-9CFE26C322-seeklogo.com.png">
+<title>USA NETWORK</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://104.238.222.251:8989/278451_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721920409501.pngN" hdImg="https://btv.mx/posters/1721920409501.png">
+<title>FX</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://104.238.222.251:8989/278427_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1720842384308.png" hdImg="https://btv.mx/posters/1720842384308.png">
+<title>STAR CHANNEL</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://104.238.222.251:8989/166930_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721513951211.png" hdImg="https://btv.mx/posters/1721513951211.png">
+<title>TNT</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278519.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721922225365.png" hdImg="https://btv.mx/posters/1721922225365.png">
+<title>TNT SERIES</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://104.238.222.251:8989/278442_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721922225365.png" hdImg="https://btv.mx/posters/1721922225365.png">
+<title>TNT SERIES OPC2</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://104.238.222.251:8989/278444_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721922259326.png" hdImg="https://btv.mx/posters/1721922259326.png">
+<title>UNIVERSAL CHANNEL</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjkfVdIxC1ZzWWQt4-nYkN9QqMbJ3ERMa1D_XP1H936OM/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1720893994564.png" hdImg="https://btv.mx/posters/1720893994564.png">
+<title>HBO</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://104.238.222.251:8989/165849_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+</feed>
