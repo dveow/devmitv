@@ -100,22 +100,6 @@
 <runtime>0</runtime>
 </item>
 
-<item sdImg="https://www.neeo.es/wp-content/uploads/2023/02/fox-sports-argentina.jpg" hdImg="https://www.neeo.es/wp-content/uploads/2023/02/fox-sports-argentina.jpg">
-<title>FOX SPORTS ARG</title>
-<contentId>10002</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<streamFormat>autodetect</streamFormat>
-<media>
-<streamQuality>SD</streamQuality>
-<streamBitrate>0</streamBitrate>
-<streamUrl>http://104.243.40.13:8989/278766_.m3u8</streamUrl>
-</media>
-<synopsis>EN VIVO</synopsis>
-<genres>DEPORTES</genres>
-<runtime>0</runtime>
-</item>
-
 <item sdImg="https://soyreferee.com/u/fotografias/m/2024/7/2/f850x638-56555_134044_5050.jpg" hdImg="https://soyreferee.com/u/fotografias/m/2024/7/2/f850x638-56555_134044_5050.jpg">
 <title>CALIENTE TV HD</title>
 <contentId>10002</contentId>
@@ -148,22 +132,6 @@
 <runtime>0</runtime>
 </item>
 
-<item sdImg="https://btv.mx/posters/1721326220134.png" hdImg="https://btv.mx/posters/1721326220134.png">
-<title>FOX DEPORTES</title>
-<contentId>10002</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<streamFormat>autodetect</streamFormat>
-<media>
-<streamQuality>SD</streamQuality>
-<streamBitrate>0</streamBitrate>
-<streamUrl>http://104.243.40.13:8989/158838_.m3u8</streamUrl>
-</media>
-<synopsis>EN VIVO</synopsis>
-<genres>DEPORTES</genres>
-<runtime>0</runtime>
-</item>
-
 <item sdImg="https://btv.mx/posters/1721326608482.png" hdImg="https://btv.mx/posters/1721326608482.png">
 <title>FOX SPORTS PREMIUM</title>
 <contentId>10002</contentId>
@@ -189,7 +157,7 @@
 <media>
 <streamQuality>SD</streamQuality>
 <streamBitrate>0</streamBitrate>
-<streamUrl>https://zonamovie.live:8443/live/Tvmagica2/9DTgBtZMxV/822858.ts</streamUrl>
+<streamUrl>http://104.238.222.251:8989/158848_.m3u8</streamUrl>
 </media>
 <synopsis>EN VIVO</synopsis>
 <genres>DEPORTES</genres>
@@ -205,7 +173,7 @@
 <media>
 <streamQuality>SD</streamQuality>
 <streamBitrate>0</streamBitrate>
-<streamUrl>http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278560.m3u8</streamUrl>
+<streamUrl>http://104.238.222.251:8989/158848_.m3u8</streamUrl>
 </media>
 <synopsis>EN VIVO</synopsis>
 <genres>DEPORTES</genres>
@@ -221,7 +189,7 @@
 <media>
 <streamQuality>SD</streamQuality>
 <streamBitrate>0</streamBitrate>
-<streamUrl>https://zonamovie.live:8443/live/Tvmagica2/9DTgBtZMxV/822861.ts</streamUrl>
+<streamUrl>http://172.93.102.119:8989/162308_.m3u8</streamUrl>
 </media>
 <synopsis>EN VIVO</synopsis>
 <genres>DEPORTES</genres>
