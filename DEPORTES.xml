@@ -1,0 +1,263 @@
+<feed>
+<!--  resultLength indicates the total number of results for this feed  -->
+<resultLength>4</resultLength>
+<!--  endIndix  indicates the number of results for this *paged* section of the feed  -->
+<endIndex>4</endIndex>
+
+<item sdImg="https://btv.mx/posters/1721326123567.png" hdImg="https://btv.mx/posters/1721326123567.png">
+<title>ESPN MX</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/158826.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png" hdImg="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png">
+<title>ESPN 2</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://104.243.40.13:8989/278762_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721326123567.png" hdImg="https://btv.mx/posters/1721326123567.png">
+<title>ESPN ARG</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://startv.solutions/live/EVENTOSFASTV/ZS9SmQx5rn/156595.ts</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" hdImg="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png">
+<title>DIRECTV SPORTS</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://startv.solutions/live/EVENTOSFASTV/ZS9SmQx5rn/87686.ts</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721325946188.png" hdImg="https://btv.mx/posters/1721325946188.png">
+<title>ESPN DEPORTES</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://startv.solutions/live/EVENTOSFASTV/ZS9SmQx5rn/128611.ts</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://www.adslzone.net/app/uploads-adslzone.net/2022/07/dazn-laliga.jpg" hdImg="https://www.adslzone.net/app/uploads-adslzone.net/2022/07/dazn-laliga.jpg">
+<title>DAZN LA LIGA</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://startv.solutions/live/EVENTOSFASTV/ZS9SmQx5rn/511721.ts</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://www.neeo.es/wp-content/uploads/2023/02/fox-sports-argentina.jpg" hdImg="https://www.neeo.es/wp-content/uploads/2023/02/fox-sports-argentina.jpg">
+<title>FOX SPORTS ARG</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://104.243.40.13:8989/278766_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://soyreferee.com/u/fotografias/m/2024/7/2/f850x638-56555_134044_5050.jpg" hdImg="https://soyreferee.com/u/fotografias/m/2024/7/2/f850x638-56555_134044_5050.jpg">
+<title>CALIENTE TV HD</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://startv.solutions/live/EVENTOSFASTV/ZS9SmQx5rn/508501.ts</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721326546231.png" hdImg="https://btv.mx/posters/1721326546231.png">
+<title>FOX SPORTS</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/158833.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721326220134.png" hdImg="https://btv.mx/posters/1721326220134.png">
+<title>FOX DEPORTES</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://104.243.40.13:8989/158838_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721326608482.png" hdImg="https://btv.mx/posters/1721326608482.png">
+<title>FOX SPORTS PREMIUM</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/158836.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721327261559.png" hdImg="https://btv.mx/posters/1721327261559.png">
+<title>TUDN</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://zonamovie.live:8443/live/Tvmagica2/9DTgBtZMxV/822858.ts</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721327162140.png" hdImg="https://btv.mx/posters/1721327162140.png">
+<title>TUDN OPC2</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278560.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721327162140.png" hdImg="https://btv.mx/posters/1721327162140.png">
+<title>TUDN USA</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://zonamovie.live:8443/live/Tvmagica2/9DTgBtZMxV/822861.ts</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721327382276.png" hdImg="https://btv.mx/posters/1721327382276.png">
+<title>TVC DEPORTES</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://172.93.102.112:8989/158850_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://btv.mx/posters/1721327534361.png" hdImg="https://btv.mx/posters/1721327534361.png">
+<title>WWE NETWORK</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://172.93.102.112:8989/158854_.m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>DEPORTES</genres>
+<runtime>0</runtime>
+</item>
+
+</feed>
