@@ -1,0 +1,167 @@
+<feed>
+<!--  resultLength indicates the total number of results for this feed  -->
+<resultLength>4</resultLength>
+<!--  endIndix  indicates the number of results for this *paged* section of the feed  -->
+<endIndex>4</endIndex>
+
+<item sdImg="https://cdn.mitvstatic.com/channels/ar_lifetime_m.png" hdImg="https://cdn.mitvstatic.com/channels/ar_lifetime_m.png">
+<title>LIFETIME</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjhbhWs-Ml1l__iUx20Vmd-ZUzHM86aHU1PX2WlT1AM1w/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://i.imgur.com/tyJXxHb.png" hdImg="https://i.imgur.com/tyJXxHb.png">
+<title>ANIMAL PLANET</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRbW4xZ02Gve6fPfHX6Jqe_u/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://i.imgur.com/RgMT9tr.jpg" hdImg="https://i.imgur.com/RgMT9tr.jpg">
+<title>DISCOVERY CHANNEL</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRYtlXbvwfYQYO9YAsZlSll4/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://i.imgur.com/5D3mH1u.png" hdImg="https://i.imgur.com/5D3mH1u.png">
+<title>DISCOVERY TURBO</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRao8iaEs9wWTaFFN9bTgzEh/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://www.hollywoodreporter.com/wp-content/uploads/2012/08/tlc_logo.jpg" hdImg="https://www.hollywoodreporter.com/wp-content/uploads/2012/08/tlc_logo.jpg">
+<title>DISCOVERY TLC</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRb7em21hd1EuVQ2v9mK-o_o/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://static.wikia.nocookie.net/tvfanon6528/images/0/03/Discovery_Science_%282011-2017%29.png" hdImg="https://static.wikia.nocookie.net/tvfanon6528/images/0/03/Discovery_Science_%282011-2017%29.png">
+<title>DISCOVERY SCIENCE</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRZR2xPq-SzXapVxuRDc1Fq9/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" hdImg="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg">
+<title>DISCOVERY HOME</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRZgW6pKv5uIo2YAFBO501-M/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-Logo-2015.png" hdImg="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-Logo-2015.png">
+<title>HISTORY</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRaeX4qT2Gox-HIM-3eVVyWu/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://cdn.mitvstatic.com/channels/ar_h2_m.png" hdImg="https://cdn.mitvstatic.com/channels/ar_h2_m.png">
+<title>HISTORY 2</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjj3ExIo06dwfvjntzsclgRbgseMuGrlJHPofZAEOe5CG/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+<item sdImg="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2016/07/nat-geo-logo.jpg" hdImg="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2016/07/nat-geo-logo.jpg">
+<title>NATGEO</title>
+<contentId>10002</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>autodetect</streamFormat>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>http://appmst.com:80/play/QybtxtcKJ76FcOSfDeUFjhbhWs-Ml1l__iUx20Vmd-ZmiqXQaw4o8ybCBo1zkVIS/m3u8</streamUrl>
+</media>
+<synopsis>EN VIVO</synopsis>
+<genres>TV</genres>
+<runtime>0</runtime>
+</item>
+
+</feed>
